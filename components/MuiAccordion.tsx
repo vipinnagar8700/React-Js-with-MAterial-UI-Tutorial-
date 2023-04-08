@@ -11,6 +11,5 @@ export const MuiAccordion = () => {
                 <Typography></Typography>
             </AccordionDetails>
         </Accordion>
-        
     )
 }
